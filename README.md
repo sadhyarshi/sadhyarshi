@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 I'm a passionate software engineer with a strong foundation in Java, JavaScript, Python, and Kotlin. My journey in tech has been driven by a love for creating robust web applications and solving complex problems with elegant solutions.
+🚀 JAVA
 
 #
